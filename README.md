@@ -1,1 +1,1 @@
-# MSProject-Globox
+# Master School Project - Globox
