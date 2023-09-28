@@ -1,7 +1,6 @@
 # Master School Project - Globox
-ENGO 651 - Adv. Topics on Geospatial Technologies - Projects 5
-
-By Adam and Chavisa
+by Chavisa Sornsakul
+Data Analytics March 2023 Cohort
 
 ## Description
 [Video Presentation](https://youtu.be/s7-vJOubjBo)
